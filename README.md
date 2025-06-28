@@ -2,5 +2,5 @@
 - 👀 I’m interested in creating and exploring what the possibilities of the world are!
 - 🌱 I’m currently learning Python, Cyber Security, Git and Linux. I utilize my main computer but I generally operate of my linux-based laptop and recently moved into exploring what's possible with my Raspberry Pi.
 - 💞️ I’m looking to collaborate on anything! I'd like to work on as many projects, big or small contributions, to learn more on not only the coding side but all things security and git related as well.
-- 📫 How to reach me email
+- 📫 How to reach me: email
 - 😄 Pronouns: He/Him
