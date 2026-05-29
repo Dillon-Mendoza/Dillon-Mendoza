@@ -1,47 +1,33 @@
-👋 Hey there, I’m Dillon Mendoza
+# Dillon Mendoza
 
-🧠 Self-Taught Programmer | Python Enthusiast | Linux Explorer | AWS Learner
-
----
-
-🌟 About Me
-
-I'm a self-taught programmer passionate about understanding systems, automating processes, and building efficient solutions through code.  
-My journey began out of curiosity — learning one command, one script, and one problem at a time — and it’s grown into a consistent pursuit of mastering the fundamentals that power modern technology.
-
-I enjoy diving into Python scripting, Linux/Bash environments, and exploring how cloud infrastructure (AWS) ties everything together. My focus is on becoming deeply fluent in tools that make automation, data handling, and deployment seamless.
+Nine years in hospitality. Early mornings, late nights, the work 
+nobody notices — I did it anyway. Now I'm the person grabbing a 
+laptop in every spare moment to build something.
 
 ---
 
-🔧 Core Focus Areas
+## What I'm Building
 
-🐍 Python – Scripting, automation, and practical applications  
-🐧 Linux – System navigation, file management, and process control  
-☁️ AWS – Foundational cloud concepts, infrastructure, and integration  
+**[homelab](https://github.com/Dillon-Mendoza/homelab)** — A 
+five-device environment running Fedora, Ubuntu, and Raspberry Pi 
+OS across a Tailscale mesh network. Hardened with FirewallD and 
+UFW, SELinux enforcing, default-deny ACL, tiered trust hierarchy.
 
----
-
-📘 Currently Learning
-
-1. Writing more efficient Python scripts using modular design  
-2. Strengthening command-line fluency and shell scripting skills  
-3. Exploring AWS services like EC2, S3, and Lambda for practical deployment  
-
----
-
-🧩 My Approach
-
-I believe in learning by doing; each project I take on is designed to strengthen understanding, not just add to a portfolio.  
-Whether it’s automating daily tasks, managing environments, or deploying simple cloud projects, I aim to build a foundation that’s both practical and adaptable.
+**[ClearMudd](https://github.com/Dillon-Mendoza/mudd-labs)** — 
+An SSH audit log parser and access intelligence tool. In active 
+development. Regex patterns built and tested against real 
+journalctl output. Brute force detection and Discord notification 
+in progress.
 
 ---
 
-📫 Connect With Me
+## Skills
 
-Let’s connect and share knowledge — I’m always open to collaboration or mentorship discussions.
-
-🔗 LinkedIn: https://www.linkedin.com/in/dillon-mendoza-979ab9ab/
+`Linux` `Bash` `Python` `FirewallD` `UFW` `Tailscale` 
+`Docker` `SSH` `systemd` `Gitea` `n8n`
 
 ---
 
-> echo “Consistency and curiosity are the roots of progress.”
+## Currently Pursuing
+
+CompTIA Linux+ — Target: September 2026
