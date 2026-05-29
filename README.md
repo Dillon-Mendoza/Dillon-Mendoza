@@ -13,7 +13,7 @@ five-device environment running Fedora, Ubuntu, and Raspberry Pi
 OS across a Tailscale mesh network. Hardened with FirewallD and 
 UFW, SELinux enforcing, default-deny ACL, tiered trust hierarchy.
 
-**[ClearMudd](https://github.com/Dillon-Mendoza/mudd-labs)** — 
+**[ClearMudd](https://github.com/Dillon-Mendoza/mudd-labs/tree/main/clearmudd)** — 
 An SSH audit log parser and access intelligence tool. In active 
 development. Regex patterns built and tested against real 
 journalctl output. Brute force detection and Discord notification 
